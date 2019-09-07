@@ -1,3 +1,5 @@
+#### See rubric in drive folder for total score
+##### You are missing some key functionality. None of the buttons in your footer are linked and some of the buttons in your heading are missing. Interesting choice to style the google logo instead of using the image! It could save you time next time by using an existing image instead. 
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
